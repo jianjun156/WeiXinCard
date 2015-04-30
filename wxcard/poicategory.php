@@ -1,6 +1,5 @@
 <?php
 // 门店一级分类
-
 $GLOBALS ['categories_first'] = array (
 		"1" => '美食',
 		"2" => '基础设施',
